@@ -14,7 +14,7 @@ We implement Ordinary Least Squares (OLS) method of linear regression in a Jupyt
 
 ### Statistical analysis:
 - **Pearson's correlation coefficient (r)**: measures the strength and direction of a linear relationship between two continuous variables
-- ****
+- **p-value**: determines whether to accept or reject the null hypothesis when compared with a predetermined significance values
 
 ### Data Source:
 R.J. Gladstone (1905). "A Study of the Relations of the Brain to the Size of the Head", Biometrika, Vol. 4, pp105-123.
@@ -23,7 +23,7 @@ R.J. Gladstone (1905). "A Study of the Relations of the Brain to the Size of the
 This notebook was adapted from a project of BloomTech's Data Science program (U1S3M1)
 
 ### Next Steps:
-- Find more recent data
-- Explore multivariate linear regression
+- Search for more recent data
+- Explore multiple linear regression
 - Investigate other evaluation metrics
 - Implement Machine Learning algorithm to improve model
